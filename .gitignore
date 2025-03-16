@@ -21,6 +21,8 @@ past.*
 past-*
 *.bike
 *.db
+.repo_ignore
+x/
 
 # py
 __pycache__
